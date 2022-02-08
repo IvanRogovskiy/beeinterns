@@ -1,0 +1,31 @@
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+#description p {
+    color: red;
+}
+
+#description span {
+    color: green;
+}
+
+#description span:nth-child(1) {
+    font-family: "Roboto Thin", sans-serif;
+}
+
+#description span:nth-child(2) {
+    font-family: "Roboto Regular", sans-serif;
+}
+
+p {
+    font-family: 'Roboto Bold', sans-serif ;
+}

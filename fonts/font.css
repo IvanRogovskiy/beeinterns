@@ -1,4 +1,13 @@
 @font-face {
+    font-family: 'Roboto Thin';
+    src:
+            url("Roboto/Roboto-Thin.woff") format("woff"),
+            url("Roboto/Roboto-Thin.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
     font-family: 'Roboto Regular';
     src:
             url("Roboto/Roboto-Regular.woff") format("woff"),
@@ -14,4 +23,13 @@
             url("Roboto/Roboto-Light.woff2") format("woff2");
     font-style: normal;
     font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src:
+            url("Roboto/Roboto-Bold.woff") format("woff"),
+            url("Roboto/Roboto-Bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 700;
 }
