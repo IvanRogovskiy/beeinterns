@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Roboto Regular';
+    font-family: 'Roboto';
     src:
             url("Roboto/Roboto-Regular.woff") format("woff"),
             url("Roboto/Roboto-Regular.woff2") format("woff2");
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto Light';
+    font-family: 'Roboto';
     src:
             url("Roboto/Roboto-Light.woff") format("woff"),
             url("Roboto/Roboto-Light.woff2") format("woff2");
